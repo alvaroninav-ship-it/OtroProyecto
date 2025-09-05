@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\controllers\\tarea\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:controllers\\tarea\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\controllers\\tarea\\tarear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:controllers\\tarea\\tarear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\controllers\\listasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:controllers\\listasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\controllers\\listas\\listaasicronocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:controllers\\listas\\listaasicronocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\migrations\\20250903212819_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:migrations\\20250903212819_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\context\\appdccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:context\\appdccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\controllers\\basico\\basicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:controllers\\basico\\basicocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\controllers\\listas\\listacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:controllers\\listas\\listacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|c:\\users\\alvaro\\documents\\tecnologias web\\trransaccion\\otroproyecto\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2AF216B-CD32-479E-8B33-21F8F858B7E0}|OtroProyecto.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:29:43.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250903212819_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Migrations\\20250903212819_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250903212819_Initial.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Migrations\\20250903212819_Initial.cs",
+              "RelativeToolTip": "Migrations\\20250903212819_Initial.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T21:28:19.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T21:06:36.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDcContext.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Context\\AppDcContext.cs",
+              "RelativeDocumentMoniker": "Context\\AppDcContext.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Context\\AppDcContext.cs",
+              "RelativeToolTip": "Context\\AppDcContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T20:58:28.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T20:35:57.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:36:01.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListaAsicronoController.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\Listas\\ListaAsicronoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Listas\\ListaAsicronoController.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\Listas\\ListaAsicronoController.cs",
+              "RelativeToolTip": "Controllers\\Listas\\ListaAsicronoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:35:44.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BasicoController.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\Basico\\BasicoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Basico\\BasicoController.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\Basico\\BasicoController.cs",
+              "RelativeToolTip": "Controllers\\Basico\\BasicoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T18:35:37.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListAsi.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\ListAsi.cs",
+              "RelativeDocumentMoniker": "Controllers\\ListAsi.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\ListAsi.cs",
+              "RelativeToolTip": "Controllers\\ListAsi.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:22:50.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListaController.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\Listas\\ListaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Listas\\ListaController.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\Listas\\ListaController.cs",
+              "RelativeToolTip": "Controllers\\Listas\\ListaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:16:24.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T20:16:02.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarear.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\Tarea\\Tarear.cs",
+              "RelativeDocumentMoniker": "Controllers\\Tarea\\Tarear.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\Tarea\\Tarear.cs",
+              "RelativeToolTip": "Controllers\\Tarea\\Tarear.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:11:55.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\Tarea\\TareaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Tarea\\TareaController.cs",
+              "ToolTip": "C:\\Users\\Alvaro\\Documents\\Tecnologias Web\\Trransaccion\\OtroProyecto\\Controllers\\Tarea\\TareaController.cs",
+              "RelativeToolTip": "Controllers\\Tarea\\TareaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T18:11:42.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

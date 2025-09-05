@@ -1,0 +1,416 @@
+[
+  {
+    "ContainingType": "OtroProyecto.Controllers.Basico.BasicoController",
+    "Method": "Get",
+    "RelativePath": "api/Basico",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Basico.BasicoController",
+    "Method": "Saludar",
+    "RelativePath": "api/Basico/{nombre}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Basico.BasicoController",
+    "Method": "Par_Impar",
+    "RelativePath": "api/Basico/classnum/{a}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Basico.BasicoController",
+    "Method": "ObtenerFrutar",
+    "RelativePath": "api/Basico/frutas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Basico.BasicoController",
+    "Method": "ObtenerFrutar",
+    "RelativePath": "api/Basico/numeros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numeros",
+        "Type": "System.Collections.Generic.List\u00601[[System.Int32, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Basico.BasicoController",
+    "Method": "Sumar_numeros",
+    "RelativePath": "api/Basico/sumar/{a}/{b}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "a",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "b",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Basico.BasicoController",
+    "Method": "MostrarTamanio",
+    "RelativePath": "api/Basico/Tamanio/{numero}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numero",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Listas.ListaController",
+    "Method": "ObtenerAnidada",
+    "RelativePath": "api/Lista/anidada",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Listas.ListaController",
+    "Method": "ObtenerCola",
+    "RelativePath": "api/Lista/cola",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Listas.ListaController",
+    "Method": "ObtenerDiccionario",
+    "RelativePath": "api/Lista/diccionario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Listas.ListaController",
+    "Method": "ObtenerDinamico",
+    "RelativePath": "api/Lista/dinamico",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Listas.ListaController",
+    "Method": "ListaGenerica",
+    "RelativePath": "api/Lista/generica",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Listas.ListaController",
+    "Method": "ObtenerHastTable",
+    "RelativePath": "api/Lista/hash",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Listas.ListaController",
+    "Method": "ObtenerHash",
+    "RelativePath": "api/Lista/hash2",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Listas.ListaController",
+    "Method": "ObtenerPila",
+    "RelativePath": "api/Lista/pila",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Listas.ListaAsicronoController",
+    "Method": "GetALL",
+    "RelativePath": "api/ListaAsicrono",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OtroProyecto.Models.Persona, OtroProyecto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.ListAsi",
+    "Method": "GetALL",
+    "RelativePath": "api/ListAsi",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OtroProyecto.Models.Persona, OtroProyecto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.ListAsi",
+    "Method": "Create",
+    "RelativePath": "api/ListAsi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nuevo",
+        "Type": "OtroProyecto.Models.Persona",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OtroProyecto.Models.Persona",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.ListAsi",
+    "Method": "Get_BY_id",
+    "RelativePath": "api/ListAsi/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "OtroProyecto.Models.Persona",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.ListAsi",
+    "Method": "Update",
+    "RelativePath": "api/ListAsi/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mod",
+        "Type": "OtroProyecto.Models.Persona",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.ListAsi",
+    "Method": "elimminar",
+    "RelativePath": "api/ListAsi/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Tarea.TareaController",
+    "Method": "Lista_Objetos",
+    "RelativePath": "api/Tarea",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Tarea.TareaController",
+    "Method": "Encontrar_objeto",
+    "RelativePath": "api/Tarea/buscar/{item}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombre",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "item",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Tarea.TareaController",
+    "Method": "contar_palabras",
+    "RelativePath": "api/Tarea/contar-palabras",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "texto",
+        "Type": "OtroProyecto.Controllers.Tarea.TareaController\u002BTextoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Tarea.TareaController",
+    "Method": "HandleStack",
+    "RelativePath": "api/Tarea/stack",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OtroProyecto.Controllers.Tarea.TareaController\u002BStackRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.Tarea.TareaController",
+    "Method": "Traducir",
+    "RelativePath": "api/Tarea/traducir/{palabra}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "palabra",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "OtroProyecto.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[OtroProyecto.WeatherForecast, OtroProyecto, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

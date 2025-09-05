@@ -32,9 +32,9 @@ HTTP.*/
         };
 
         [HttpGet("buscar/{item}")]
-        public IActionResult Encontrar_objeto(string nombre)
+        public IActionResult EncontrarObjeto(string item)
         {
-            bool okey = muebles.Contains(nombre);
+            bool okey = muebles.Contains(item);
             if (okey)
             {
                 return Ok(okey);
@@ -68,7 +68,7 @@ Aprendizaje: Uso de diccionarios para relaciones clave-valor.
             var traducido = traducciones.TryGetValue(palabra, out string value);// retorna bool
             if (traducido)
             {
-                return Ok(new { palabra, traducciones = value });
+                return Ok(new { palabra, traduccion = value });
             }
             else
             {
@@ -162,6 +162,7 @@ Aprendizaje: Creación de clases y trabajo con objetos.
             new Producto{id=2,nombre="Mantequilla",precio=15}
         };
 
+        [HttpGet("objetos")]
         public IActionResult Lista_Objetos()
         {
             return Ok(productos);
@@ -350,7 +351,7 @@ Aprendizaje: Encapsulación y validación de datos.
         new CuentaBancaria { codigo = "456" }
     };
 
-        [HttpPost("depositar/{cuenta}/{saldo}")]
+        [HttpPost("depositar/{codigo}/{saldo}")]
         public IActionResult Depositar(string codigo, decimal saldo)
         {
             var cuenta = cuentas.FirstOrDefault(c => c.codigo == codigo);
